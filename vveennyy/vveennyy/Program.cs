@@ -9,10 +9,7 @@ namespace vveennyy
     {
         static void Main(string[] args)
         {
-            Account account = new Account();
-            account.DataInput();
-            Console.WriteLine(account.ToString());
-            Console.ReadKey();
+           
         }
     }
 }
