@@ -1,0 +1,8 @@
+C:\Users\intel\Desktop\УЧЁБА\УП по програмированию\1\1.2\vveennyy\vveennyy\bin\Debug\vveennyy.exe
+C:\Users\intel\Desktop\УЧЁБА\УП по програмированию\1\1.2\vveennyy\vveennyy\bin\Debug\vveennyy.pdb
+C:\Users\intel\Desktop\УЧЁБА\УП по програмированию\1\1.2\vveennyy\vveennyy\bin\Debug\InputAccuracy.dll
+C:\Users\intel\Desktop\УЧЁБА\УП по програмированию\1\1.2\vveennyy\vveennyy\bin\Debug\InputAccuracy.pdb
+C:\Users\intel\Desktop\УЧЁБА\УП по програмированию\1\1.2\vveennyy\vveennyy\obj\Debug\vveennyy.csprojAssemblyReference.cache
+C:\Users\intel\Desktop\УЧЁБА\УП по програмированию\1\1.2\vveennyy\vveennyy\obj\Debug\vveennyy.csproj.CopyComplete
+C:\Users\intel\Desktop\УЧЁБА\УП по програмированию\1\1.2\vveennyy\vveennyy\obj\Debug\vveennyy.exe
+C:\Users\intel\Desktop\УЧЁБА\УП по програмированию\1\1.2\vveennyy\vveennyy\obj\Debug\vveennyy.pdb

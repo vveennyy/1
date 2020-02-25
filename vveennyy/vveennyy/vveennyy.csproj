@@ -32,7 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="InputAccuracy">
+    <Reference Include="InputAccuracy, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\Пргорамирование доп\Корректность ввода\InputAccuracy\InputAccuracy\bin\Debug\InputAccuracy.dll</HintPath>
     </Reference>
     <Reference Include="System" />

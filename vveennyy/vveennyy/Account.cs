@@ -60,9 +60,9 @@ namespace vveennyy
             Console.WriteLine("введите наименование");
             NominationEdit(input._stringName(Console.ReadLine()));
             Console.WriteLine("введите номер счета");
-            AccountNumberEdit(input._int(Convert.ToInt32(Console.ReadLine())));
+            AccountNumberEdit(Convert.ToInt32(input._int(Console.ReadLine())));
             Console.WriteLine("введите сумму");
-            AmountEdit(input._double(Convert.ToDouble(Console.ReadLine())));
+            AmountEdit(Convert.ToDouble(input._double(Console.ReadLine())));
         }
     }
 }
